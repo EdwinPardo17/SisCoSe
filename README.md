@@ -10,7 +10,7 @@ informática pueden administrar y gestionar cada actividad o tarea realizada por
 sus personal del área.
 
 # Autores
--Edwin Pardo García
--Jennifer Araya Mata
--Pablo Quesada Bonilla
--Sebastián Rodríguez
+-Edwin Pardo García.
+-Jennifer Araya Mata.
+-Pablo Quesada Bonilla.
+-Sebastián Rodríguez.
