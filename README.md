@@ -1,5 +1,5 @@
 # SisCoSe
-Sistema de Control de Servicios del Departamento Técnico 
+Sistema de Control de Servicios del Departamento Técnico.
 
 # Descripción 
 La empresa Jitel Consulting necesita un sistema con el cual cada uno
