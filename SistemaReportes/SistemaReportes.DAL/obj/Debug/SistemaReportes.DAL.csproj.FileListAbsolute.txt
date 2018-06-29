@@ -1,7 +1,0 @@
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\SistemaReportes.DAL.dll
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\SistemaReportes.DAL.pdb
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\SistemaReportes.DATA.dll
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\SistemaReportes.DATA.pdb
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\obj\Debug\SistemaReportes.DAL.csprojResolveAssemblyReference.cache
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\obj\Debug\SistemaReportes.DAL.dll
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\obj\Debug\SistemaReportes.DAL.pdb
