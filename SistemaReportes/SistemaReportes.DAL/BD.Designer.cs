@@ -26,6 +26,7 @@ namespace SistemaReportes.DAL {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("server=localhost;user id=root;database=siscose;persistsecurityinfo=True")]
         public string Conexion {
             get {
                 return ((string)(this["Conexion"]));
