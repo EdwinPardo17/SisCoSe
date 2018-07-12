@@ -55,6 +55,7 @@
                         <li><a runat="server" href="~/">Inicio</a></li>
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
+                         <li><a runat="server" href="~/Login">Ingresar</a></li>
                     </ul>
                 </div>
             </div>
@@ -64,7 +65,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Jitel Consulting</p>
             </footer>
         </div>
 

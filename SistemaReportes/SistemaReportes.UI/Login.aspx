@@ -1,39 +1,24 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Usuario.aspx.cs" Inherits="SistemaReportes.UI.Usuario" %>
+﻿<%@ Page Title="Ingresar" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="SistemaReportes.UI.Login" %>
 
-<!DOCTYPE html>
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+   <table>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
-<body>
-    <div class="alert alert-success" visible="false" id="mensaje" runat="server">
-        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong id="textoMensaje" runat="server"></strong>
-    </div>
-    <form id="form1" runat="server">
-         <div class="alert alert-danger" visible="false" id="mensajeError" runat="server">
-        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong id="textoMensajeError" runat="server"></strong>
-    </div>
-    <div>
-        <asp:Label ID="lbNombre" runat="server" Text="Nombre: "></asp:Label>
-        <asp:TextBox ID="txtNombre" runat="server" class="form-control"></asp:TextBox>
-        <asp:Label ID="lbContraseña" runat="server" Text="Contraseña: "></asp:Label>
-        <asp:TextBox ID="txtContraseña" runat="server" class="form-control"></asp:TextBox>
 
-         <asp:Button ID="btnIngresar" runat="server" Text="Ingresar" CssClass="btn btn-primary" />
-
-         </div>
-   <asp:Label ID="lbCategoria" runat="server" Text="Categoria: "></asp:Label>
-        <asp:DropDownList ID="ddlCategorias" runat="server" CssClass="form-control" Width="280"></asp:DropDownList>
-
-         <br />
-        <asp:Button ID="btnInsertar" runat="server" Text="Insertar" />
+       <tr>
+    <td>Usuario</td>
+    <td> <asp:TextBox ID="txtUsuario" runat="server" ></asp:TextBox></td> 
     
+  </tr>
+  <tr>
+    <td>Contraseña</td>
+    <td><asp:TextBox ID="txtContraseña" runat="server" TextMode="Password"></asp:TextBox></td> 
     
-    </form>
-</body>
-</html>
+  </tr>
+   </table>
+
+    <asp:Button ID="btnIngresar" runat="server" Text="Entrar" OnClick="Button_Click" />
+    <br />
+     <asp:Label ID="lblMensaje" runat="server" Font-Size="X-Large"></asp:Label>  
+
+</asp:Content>
 
