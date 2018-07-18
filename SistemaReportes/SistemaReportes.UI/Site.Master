@@ -2,12 +2,11 @@
 
 <!DOCTYPE html>
 
-<html lang="es">
+<html>
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta charset="utf-8" />
+  <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
+    <title><%: Page.Title %> - Jitel Consulting</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -15,7 +14,26 @@
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+     <style>
+        .navbar {
+            background-color: #EAEEF1;
+        }
 
+        .navbar-inverse{background-color:#EAEEF1;
+                            border-color: #EAEEF1;
+
+        }
+
+            .navbar-inverse .navbar-brand {
+            color: #13A7FF;
+
+        }
+
+             .navbar-inverse .navbar-nav > li > a {
+              color: #13A7FF;
+       }
+    </style>
 </head>
 <body>
     <form runat="server">
@@ -55,6 +73,8 @@
                         <li><a runat="server" href="~/">Inicio</a></li>
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
+                        <li><a runat="server" href="~/Login">Ingresar</a></li>
+                        <li><a runat="server" href="~/Clientes">Clientes</a></li>
                     </ul>
                 </div>
             </div>
@@ -64,7 +84,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Jitel Consulting</p>
             </footer>
         </div>
 

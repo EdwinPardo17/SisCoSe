@@ -16,3 +16,7 @@ C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.BLL\bin\De
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.BLL\obj\Debug\SistemaReportes.BLL.csprojResolveAssemblyReference.cache
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.BLL\obj\Debug\SistemaReportes.BLL.dll
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.BLL\obj\Debug\SistemaReportes.BLL.pdb
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.BLL\bin\Debug\Google.Protobuf.xml

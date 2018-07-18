@@ -17,3 +17,8 @@ C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DAL\obj\De
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DAL\obj\Debug\SistemaReportes.DAL.pdb
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DAL\bin\Debug\MySql.Data.dll
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DAL\bin\Debug\MySql.Data.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\SistemaReportes.DAL.dll.config
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DAL\bin\Debug\MySql.Data.xml
