@@ -7,3 +7,13 @@ C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\bin\D
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.dll
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.pdb
 C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\bin\Debug\SistemaReportes.DATA.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\bin\Debug\SistemaReportes.DATA.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.csprojAssemblyReference.cache
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\bin\Debug\MySql.Data.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\bin\Debug\Google.Protobuf.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\bin\Debug\MySql.Data.xml
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.csproj.CopyComplete
