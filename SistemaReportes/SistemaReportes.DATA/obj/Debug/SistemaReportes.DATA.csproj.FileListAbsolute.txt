@@ -6,4 +6,3 @@ C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\bin\D
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\bin\Debug\SistemaReportes.DATA.pdb
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.dll
 C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.pdb
-C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.DATA\obj\Debug\SistemaReportes.DATA.csprojResolveAssemblyReference.cache

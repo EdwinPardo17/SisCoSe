@@ -37,14 +37,18 @@
 				<div class="form-group">
                        <asp:TextBox ID="TextBox1" runat="server"
                                 class="form-control input-lg" placeholder="Usuario"></asp:TextBox>
-
 				</div>
 				<div class="form-group">
                     <input type="password" id="txtContras" runat="server"
                                 class="form-control input-lg" placeholder="Contraseña" />
 
 				</div>
-				
+
+				<span class="button-checkbox">
+					<button type="button" class="btn" data-color="info">Recordarme</button>
+                    <input type="checkbox" name="remember_me" id="remember_me" checked="checked" class="hidden">
+                    <a href="OlvidoContra.aspx" class="pull-right">Olvidó contraseña</a>
+				</span>
 				<hr class="colorgraph">
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
@@ -52,6 +56,9 @@
                                     class="btn btn-lg btn-success btn-block" Text="Login"
                                     OnClick="Button_Click" />
 
+					</div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <a href="Registro.aspx" class="btn btn-lg btn-primary btn-block">Registrate ahora</a>
 					</div>
 				</div>
 			</fieldset>
