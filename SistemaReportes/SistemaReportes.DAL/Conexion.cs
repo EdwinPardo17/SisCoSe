@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MySql.Data.MySqlClient;
-using MySql.Data;
-using MySql.Data.Types;
+﻿using MySql.Data.MySqlClient;
+using System;
 
 namespace SistemaReportes.DAL
 {
@@ -57,7 +51,7 @@ namespace SistemaReportes.DAL
         public int Validar(String Usuario, String Contraseña)
         {
             
-            Comando.CommandText = "Select count(*)  from usuarios where Nombre='" + Usuario + "'and Contraseña='" + Contraseña + "'";
+            Comando.CommandText = "Select Rol  from usuarios where Nombre='" + Usuario + "'and Contraseña='" + Contraseña + "'";
             int valor = int.Parse(Comando.ExecuteScalar().ToString());
             return valor;
         }

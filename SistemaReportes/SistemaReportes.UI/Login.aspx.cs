@@ -25,7 +25,7 @@ namespace SistemaReportes.UI
           
         }
 
-        protected void txtUsuario_TextChanged(object sender, EventArgs e)
+        protected void TxtUsuario_TextChanged(object sender, EventArgs e)
         {
 
         }
@@ -43,7 +43,7 @@ namespace SistemaReportes.UI
 
             try
             {
-                if (valor  == 1)
+                if (valor  == 1 )
                 {
                     lblMensaje.Text = "Bienvenido";
                     Response.Redirect("About.aspx");
