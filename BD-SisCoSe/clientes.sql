@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 25-07-2018 a las 07:50:01
+-- Tiempo de generación: 25-07-2018 a las 09:16:16
 -- Versión del servidor: 10.1.33-MariaDB
 -- Versión de PHP: 7.2.6
 
@@ -19,31 +19,32 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `mysql`
+-- Base de datos: `siscose`
 --
 
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `Cliente`
+-- Estructura de tabla para la tabla `clientes`
 --
 
-CREATE TABLE `cliente` (
-  `Nombre` varchar(50) DEFAULT NULL,
-  `Apellidos` varchar(50) DEFAULT NULL,
-  `Id cliente` varchar(10) NOT NULL,
+CREATE TABLE `clientes` (
+  `Nombre` varchar(50) COLLATE utf8_spanish_ci DEFAULT NULL,
+  `Apellidos` varchar(50) COLLATE utf8_spanish_ci DEFAULT NULL,
+  `Id cliente` varchar(10) COLLATE utf8_spanish_ci NOT NULL,
   `Telefono` int(10) DEFAULT NULL,
-  `Dirección` varchar(30) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+  `Dirección` varchar(200) COLLATE utf8_spanish_ci DEFAULT NULL,
+  `Correo` varchar(50) CHARACTER SET latin1 NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
 
 --
 -- Índices para tablas volcadas
 --
 
 --
--- Indices de la tabla `Cliente`
+-- Indices de la tabla `clientes`
 --
-ALTER TABLE `Cliente`
+ALTER TABLE `clientes`
   ADD PRIMARY KEY (`Id cliente`);
 COMMIT;
 
