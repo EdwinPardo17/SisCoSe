@@ -50,10 +50,34 @@ namespace SistemaReportes.DAL
 
         public int Validar(String Usuario, String Contraseña)
         {
-            
-            Comando.CommandText = "Select Rol  from usuarios where Nombre='" + Usuario + "'and Contraseña='" + Contraseña + "'";
-            int valor = int.Parse(Comando.ExecuteScalar().ToString());
-            return valor;
+            int ValorEncontrado=99;
+            Comando.CommandText = "Select Rol  from usuarios where Correo='" + Usuario + "'and Contraseña='" + Contraseña + "'";
+
+            try
+            {
+                if (Comando.CommandText != null)
+                {
+                    ValorEncontrado = 99;
+                }
+                else
+                {
+                    ValorEncontrado = int.Parse(Comando.CommandText.ToString());
+                        //int.Parse(Comando.ExecuteScalar().ToString());
+                }
+
+               
+            }
+            catch (MySqlException ex)
+            {
+               
+            }
+            return ValorEncontrado;
+
+
+
+
+
+
         }
 
     }

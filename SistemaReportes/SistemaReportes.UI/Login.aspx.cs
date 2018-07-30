@@ -32,27 +32,33 @@ namespace SistemaReportes.UI
 
         protected void Button_Click(object sender, EventArgs e)
         {
-            /* Conexion con = new Conexion();
+             Conexion con = new Conexion();
 
              con.Conectar();
 
-             string Usuario = txtUsuario.Text;
-             string Contraseña = txtContraseña.Text;
+             string Usuario = TxtUsuario.Text;
+             string Contraseña =  TxtContraseña.Text;
 
              int valor = con.Validar(Usuario, Contraseña);
-
+            
              try
              {
                  if (valor  == 1 )
                  {
-                     lblMensaje.Text = "Bienvenido";
-                     Response.Redirect("About.aspx");
+                     
+                     Response.Redirect("Registro.aspx");
                  }
-                 else
-                 {
-                     Response.Write("No se encontro usuario");
+                  if(valor == 0)
+                {
+                    Response.Redirect("Registro.aspx");
+                   
+                
                  }
+                  else
+                {
 
+                    Response.Write("No se encontro usuario");
+                }
              }
              catch (MySqlException ex)
              {
@@ -62,7 +68,7 @@ namespace SistemaReportes.UI
 
 
              con.Desconectar();
- */
+ 
 
         }
 

@@ -14,11 +14,11 @@
    
     <style>
    a {
-    color: white;
+    color: black;
    }
 
    a:hover {
-    color: white;
+    color: black;
    }
   </style>
 
@@ -35,12 +35,17 @@
 			<fieldset>
 				<hr class="colorgraph">
 				<div class="form-group">
-                       <asp:TextBox ID="TextBox1" runat="server"
-                                class="form-control input-lg" placeholder="Usuario"></asp:TextBox>
+                       <asp:TextBox ID="TxtUsuario" runat="server"
+                                class="form-control input-lg" placeholder="Usuario" ></asp:TextBox>
+                    
 				</div>
 				<div class="form-group">
-                    <input type="password" id="txtContras" runat="server"
-                                class="form-control input-lg" placeholder="Contraseña" />
+
+                    <asp:TextBox ID="TxtContraseña" runat="server" class="form-control input-lg"
+                        TextMode="Password"  placeholder="Contraseña" ></asp:TextBox>
+
+                    <asp:RequiredFieldValidator ID="ValidarUsuario" runat="server" 
+                        ControlToValidate="TxtUsuario" ErrorMessage="Usuario o Contraseña incorrecta"></asp:RequiredFieldValidator>
 
 				</div>
 
@@ -73,7 +78,11 @@
     <style>
         /* Credit to bootsnipp.com for the css for the color graph */
 
+#ValidarUsuario{
 
+
+
+}
 .colorgraph {
   height: 5px;
   border-top: 0;
@@ -156,8 +165,14 @@
     <td>Contraseña</td>
     <td><asp:TextBox ID="txtContraseña" runat="server" TextMode="Password"></asp:TextBox></td> 
     
+
+     <input type="password" id="txtContras" runat="server"
+                                class="form-control input-lg" placeholder="Contraseña" />
   </tr>
    </table>
+
+    <input type="password" id="txtContras" runat="server"
+                                class="form-control input-lg" placeholder="Contraseña" />
 
     <asp:Button ID="btnIngresar" runat="server" Text="Entrar" OnClick="Button_Click" />
     <br />
