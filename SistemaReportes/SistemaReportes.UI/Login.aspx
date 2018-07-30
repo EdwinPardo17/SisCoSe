@@ -58,7 +58,7 @@
 
 					</div>
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                        <a href="Registro.aspx" class="btn btn-lg btn-primary btn-block">Registrate ahora</a>
+                        <a href="MantenimientoClientes.aspx" class="btn btn-lg btn-primary btn-block">Registrate ahora</a>
 					</div>
 				</div>
 			</fieldset>
