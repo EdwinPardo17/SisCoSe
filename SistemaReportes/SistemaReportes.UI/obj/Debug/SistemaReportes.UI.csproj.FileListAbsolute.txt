@@ -79,3 +79,7 @@ C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Micro
 C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\System.Web.Optimization.resources.dll
 C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
 C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CopyComplete
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojAssemblyReference.cache
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CoreCompileInputs.cache
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb

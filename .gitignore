@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/SistemaReportes/.vs/SistemaReportes/v15/Server/sqlite3
+/SistemaReportes/SistemaReportes.UI/Imagenes/Content
