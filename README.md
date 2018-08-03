@@ -76,10 +76,10 @@ Usamos SemVer para versionar. Para las versiones disponibles, vea las etiquetas 
 
 ## Autores
 
-Pablo Quesada Bonilla.
-Edwin Pardo García.
-Jennifer Araya Mata.
-Sebastián Rodríguez.
+* Pablo Quesada Bonilla.
+* Edwin Pardo García.
+* Jennifer Araya Mata.
+* Sebastián Rodríguez.
 
 ## Licencia //FALTA
 
