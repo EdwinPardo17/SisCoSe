@@ -7,23 +7,25 @@ realizada por sus personal del área. La empresa sugiere que algunas funcionalid
 informático como crear archivos PDF o enviar correos personalizados al momento de que el técnico finalice la visita o sesión 
 puede ser un gran diferenciador en el mercado.
 
-## Empezando
+## Antes de Empezar
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte la implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+Estas instrucciones le permitirán obtener una version del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba.
 
-### Requisitos Previos //FALTA
+### Requisitos Previos 
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
+Los requisitos previos que necesita el software para funcionar correctamente son:
 
-`` `
-Dar ejemplos
-`` `
+-El framework debe ser 4.5.2.
+-Motor de base de datos MySQL.
+-Servidor web Apache
 
-### Instalación //FALTA
+
+### Instalación 
 
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
 
-Di lo que será el paso
+Instalar XAAMP e iniciar el servicio de apache
+El en mismo XAAMP senecesia
 
 `` `
 Da el ejemplo
@@ -53,26 +55,19 @@ Dar un ejemplo
 
 Explica qué prueban estas pruebas y por qué
 
-`` `
-Dar un ejemplo
-`` `
 
-## Despliegue //FALTA
+Dar un ejemplo
+
+
+## Despliegue //FA
 
 Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
-## Construido con
+## Desarrolado con
 
-* VisualStudio: En una aplicación ASP.NET, que es una página web.
-* MySql: Base de datos de la aplicación web.
+VisualStudio: En una aplicación ASP.NET, que es una página web.
+MySql: Base de datos de la aplicación web.
 
-## Contribuyendo //FALTA
-
-Lea CONTRIBUTING.md para obtener detalles sobre nuestro código de conducta y sobre el proceso para enviarnos solicitudes de extracción.
-
-## Versiones //FALTA
-
-Usamos SemVer para versionar. Para las versiones disponibles, vea las etiquetas en este repositorio .
 
 ## Autores
 
@@ -81,12 +76,8 @@ Usamos SemVer para versionar. Para las versiones disponibles, vea las etiquetas 
 * Jennifer Araya Mata.
 * Sebastián Rodríguez.
 
-## Licencia //FALTA
+## Licencia 
 
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA.md] (LICENCIA.md) para obtener más detalles.
+El proyecto con respecto a la base de datos usa un software libre, por lo que no necesita una licencia de pago.
 
-## Agradecimientos //FALTA
 
-* Punta de sombrero para cualquier persona cuyo código se usó
-* Inspiración
-* etc.
