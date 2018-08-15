@@ -39,31 +39,11 @@ hasta que termine
 
 Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración
 
-## Ejecución de las pruebas //FALTA
-
-Explicar cómo ejecutar las pruebas automatizadas para este sistema
-
-### Analizar en pruebas de extremo a extremo //FALTA
-
-Explica qué prueban estas pruebas y por qué
-
-`` `
-Dar un ejemplo
-`` `
-
-### Y pruebas de estilo de codificación //FALTA
-
-Explica qué prueban estas pruebas y por qué
-
-
-Dar un ejemplo
-
-
-## Despliegue //FA
+## Despliegue //FALTA
 
 Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
-## Desarrolado con
+## Desarrollado con
 
 VisualStudio: En una aplicación ASP.NET, que es una página web.
 MySql: Base de datos de la aplicación web.
