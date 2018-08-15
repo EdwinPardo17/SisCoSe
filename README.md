@@ -24,8 +24,8 @@ Los requisitos previos que necesita el software para funcionar correctamente son
 
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
 
-Instalar XAAMP e iniciar el servicio de apache
-El en mismo XAAMP senecesia
+Instalar XAMPP e iniciar el servicio de apache
+El en mismo XAMPP se necesita
 
 `` `
 Da el ejemplo
