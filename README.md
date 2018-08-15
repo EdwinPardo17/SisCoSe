@@ -15,9 +15,9 @@ Estas instrucciones le permitirán obtener una version del proyecto en funcionam
 
 Los requisitos previos que necesita el software para funcionar correctamente son:
 
--El framework debe ser 4.5.2.
--Motor de base de datos MySQL.
--Servidor web Apache
+* Visual Studio 2012 o Superior con un framework 4.5.2 o Superior.
+* Motor de base de datos MySQL.
+* Servidor web Apache.
 
 
 ### Instalación 
@@ -25,7 +25,7 @@ Los requisitos previos que necesita el software para funcionar correctamente son
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
 
 Instalar XAMPP e iniciar el servicio de apache
-El en mismo XAMPP se necesita
+* El en mismo XAMPP se necesita
 
 `` `
 Da el ejemplo
