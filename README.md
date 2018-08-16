@@ -22,26 +22,26 @@ Los requisitos previos que necesita el software para funcionar correctamente son
 
 ### Instalación 
 
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo
+Para realizar una correcta instalacion del sistema se debe seguir los suguientes pasos.
 
-Instalar XAMPP e iniciar el servicio de apache, 
-El en mismo XAMPP se necesita
+-Instalar XAMPP.
+-Iniciar el servicio de apache.
+-Iniciar el servicio de MySQL.
+-Cargar la base de datos.
+-Configurar el servicio en el servidor para publicar servicio.
 
-`` `
-Da el ejemplo
-`` `
 
-Y repetir
 
-`` `
-hasta que termine
-`` `
+## Despliegue
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración
+Para que el sistema entre en produccion, desues de realizar todas las pruebas necesarias, se debe realziar los siguientes pasos:
 
-## Despliegue //FALTA
+-El servidor destino para la aplicacion debe estar en perfecto estado y con la aplicacion instalada.
+-Tener la base de datos corriendo correctamente.
+-El servidor debe tener conexion a internet, y publicado el servicio.
+-El usuario debe debe tener el actualizado el explorador.
+-Ingresar a la pagina web.
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ## Desarrollado con
 
