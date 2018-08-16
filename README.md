@@ -9,7 +9,7 @@ puede ser un gran diferenciador en el mercado.
 
 ## Antes de Empezar
 
-Estas instrucciones le permitirán obtener una version del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba.
+Teniendo en cuenta que se cuenta con un servidor, el cual es donde la aplicación va a ser implementada y además el servidor debe estar en buen estado y conectado a la red a convenir.
 
 ### Requisitos Previos 
 
@@ -22,31 +22,30 @@ Los requisitos previos que necesita el software para funcionar correctamente son
 
 ### Instalación 
 
-Para realizar una correcta instalacion del sistema se debe seguir los suguientes pasos.
+Para realizar una correcta instalación del sistema se debe seguir los siguientes pasos.
 
--Instalar XAMPP.
--Iniciar el servicio de apache.
--Iniciar el servicio de MySQL.
--Cargar la base de datos.
--Configurar el servicio en el servidor para publicar servicio.
+* Instalar XAMPP.
+* Iniciar el servicio de apache.
+* Iniciar el servicio de MySQL.
+* Cargar la base de datos.
+* Configurar el servicio en el servidor para publicar servicio.
 
 
 
 ## Despliegue
 
-Para que el sistema entre en produccion, desues de realizar todas las pruebas necesarias, se debe realziar los siguientes pasos:
+Para que el sistema entre en producción, después de realizar todas las pruebas necesarias, se debe realizar los siguientes pasos:
 
--El servidor destino para la aplicacion debe estar en perfecto estado y con la aplicacion instalada.
--Tener la base de datos corriendo correctamente.
--El servidor debe tener conexion a internet, y publicado el servicio.
--El usuario debe debe tener el actualizado el explorador.
--Ingresar a la pagina web.
+* El servidor destino para la aplicación debe estar en perfecto estado y con la aplicación instalada.
+* Tener la base de datos corriendo correctamente.
+* El servidor debe tener conexión a internet, y publicado el servicio.
+* El usuario debe tener el actualizado el explorador.
+* Ingresar a la página web.
 
 
 ## Desarrollado con
 
-VisualStudio: En una aplicación ASP.NET, que es una página web.
-MySql: Base de datos de la aplicación web.
+VisualStudio: En una aplicación ASP.NET, con respecto a la base de datos se utilizó MySQL
 
 
 ## Autores
@@ -59,5 +58,4 @@ MySql: Base de datos de la aplicación web.
 ## Licencia 
 
 El proyecto con respecto a la base de datos usa un software libre, por lo que no necesita una licencia de pago.
-
 
