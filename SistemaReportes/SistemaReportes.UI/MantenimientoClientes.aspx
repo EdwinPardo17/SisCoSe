@@ -1,4 +1,33 @@
-﻿<%@ Page Title="Matenimiento de Clientes" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="SistemaReportes.UI.Login" %>
+﻿<%@ Page Title="Matenimiento de Clientes" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" %>
+
+<script runat="server">
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+
+    protected void btnCargarBD_Click(object sender, EventArgs e)
+    {
+        /*conn.Open();
+        MySqlCommand cmd = conn.CreateCommand();
+        cmd.CommandType = CommandType.Text;
+        cmd.CommandText = "select * from clientes";
+        cmd.ExecuteNonQuery();
+        DataTable dt = new DataTable();
+        MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+        da.Fill(dt);
+        gvClientes.DataSource = dt;
+        gvClientes.DataBind();
+        conn.Close();*/
+    }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+
+    }
+</script>
+
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
       <link href="Styles/index.css" rel="stylesheet" type="text/css" />
@@ -22,40 +51,10 @@
 </style>
 
      <div class="col-sm-12 text-left">
-         <h2>Lista De Clientes</h2>
+         <h2>Lista De Cliente</h2>
      </div>
 
 <div class="row">
-
-    <%--
-<div style="background-color: lightgray">
-        
-    <table border=1 style="width:100%" class="table table-striped">
-      <tr>
-        <th>Nombre</th>
-        <th>Apellidos</th> 
-        <th>Teléfono</th>
-        <th>Dirección</th>
-        <th>Correo Electrónico</th>
-      </tr>
-      <tr>
-        <td>Carmen</td>
-        <td>Días</td> 
-        <td>88888888</td>
-        <td>San José</td>
-        <td>carmen@correo.com</td>
-      </tr>
-      <tr>
-        <td>Esteban</td>
-        <td>Salazar</td> 
-        <td>88888888</td>
-        <td>Heredia</td>
-        <td>esteban@correo.com</td>
-      </tr>
-    </table>
-
-</div>
---%>
 
     <table class="table">
   <thead>
@@ -96,7 +95,12 @@
   </tbody>
 </table>
 
+    <asp:GridView ID="gvClientes" runat="server"></asp:GridView>
+
+    <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
+
     <div class="col-xs-20 col-sm-10 col-md-10">
+
 
     <fieldset>
 				<div >
@@ -111,6 +115,8 @@
 
                         <asp:Button ID="btnEliminarCliente" 
                             runat="server" class="btn btn-md btn-danger" Text="Eliminar Cliente" OnClick="Button_Click" />
+
+                        <asp:Button ID="btnCargarBD" runat="server" class="btn btn-md btn-success" Text="CargarBD" OnClick="btnCargarBD_Click" />
 					</div>
 				</div>
 	</fieldset>
