@@ -1,0 +1,89 @@
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll.config
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.pdb
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\WebGrease.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.xml
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.xml
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojResolveAssemblyReference.cache
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Familia Quesada\Downloads\01\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll.config
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.pdb
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\WebGrease.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojResolveAssemblyReference.cache
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Familia Quesada\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojAssemblyReference.cache
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll.config
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.UI.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\MySql.Data.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.BLL.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.DAL.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.DATA.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\WebGrease.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Google.Protobuf.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.BLL.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.DAL.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.DAL.dll.config
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\SistemaReportes.DATA.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\MySql.Data.xml
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\System.Web.Optimization.xml
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Newtonsoft.Json.xml
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Edwin\Source\Repos\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CopyComplete
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojAssemblyReference.cache
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CoreCompileInputs.cache
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Jen\source\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb
+C:\Users\Edwin\Source\repositorio\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csprojAssemblyReference.cache
+C:\Users\Edwin\Source\repositorio\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Source\repositorio\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.dll
+C:\Users\Edwin\Source\repositorio\repos\SisCoSe\SisCoSe\SistemaReportes\SistemaReportes.UI\obj\Debug\SistemaReportes.UI.pdb
